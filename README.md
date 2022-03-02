@@ -33,7 +33,7 @@
     Application's CSS file is properly commented. (Y)
 
 # Deployment: 32%
-    Application deployed at live URL. (N)
+    Application deployed at live URL. (Y)
     Application loads with no errors. (N)
     Application GitHub URL submitted. (N)
     GitHub repository contains application code. (N)
