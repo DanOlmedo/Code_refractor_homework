@@ -29,8 +29,8 @@
 # Technical Acceptance Criteria: 40%
     Satisfies all of the preceding acceptance criteria plus the following code improvements:
     Application's links all function correctly. (Y)
-    Application's CSS selectors and properties are consolidated and organized to follow semantic structure. (N)
-    Application's CSS file is properly commented. (N)
+    Application's CSS selectors and properties are consolidated and organized to follow semantic structure. (Y)
+    Application's CSS file is properly commented. (Y)
 
 # Deployment: 32%
     Application deployed at live URL. (N)
@@ -42,10 +42,10 @@
     Application resembles mock-up provided in the homework instructions (at least 90%). (N)
 
 # Repository Quality: 13%
-    Repository has a unique name. (N)
-    Repository follows best practices for file structure and naming conventions. (N)
+    Repository has a unique name. (Y)
+    Repository follows best practices for file structure and naming conventions. (Y)
     Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-    Repository contains multiple descriptive commit messages. (N)
+    Repository contains multiple descriptive commit messages. (Y)
     Repository contains quality README file with description, screenshot, and link to deployed application. (N)
 
 # Review:
